@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JESUSBURGOSHUERTAS&rank=-?" alt="JESUSBURGOSHUERTAS" /></a> </p>
 
-- 💬 Pregúntame sobre **CSS, HTML5, JS, NODE, ANGULAR, VUE, JAVA,SPRINGBOOT**
+- 💬 Pregúntame sobre **CSS, HTML5, JS, NODE, ANGULAR, VUE, JAVA, SPRINGBOOT**
 
 - 📫 Correo **jburgoshu@gmail.com**
 
